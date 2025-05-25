@@ -1,3 +1,5 @@
+DEMO VIDEO : https://drive.google.com/file/d/10lkg-MCTX8Xk6U7NqScVJ7U-Cmlh0Ly1/view?usp=sharing
+
 Introduction:
 The evolution of digital technology has profoundly impacted the healthcare industry, paving the way for innovative solutions such as telehealth. Telemedicine bridges the gap between patients and healthcare professionals, especially for those living in remote locations or facing mobility challenges. The Online Telehealth Consultation System leverages modern web technologies to simulate real-time clinical workflows. By allowing users to interact through dashboards, book appointments, manage slots, and access consultation records, it modernizes healthcare delivery.
 With the healthcare system under increasing strain—due to rising patient volumes, limited clinical infrastructure, and unforeseen global emergencies—there is a growing need for reliable and scalable telehealth solutions. The platform ensures that essential healthcare services are never out of reach, regardless of time or location. Additionally, it upholds strong security practices using JWT-based authentication, allowing both patients and doctors to safely access and manage confidential medical information.
@@ -7,3 +9,6 @@ Problem Statement:
 Access to efficient healthcare remains difficult in remote and underserved regions. Traditional hospital visits often involve long waits, overcrowding, and travel inconveniences. During crises such as pandemics, these challenges intensify, leaving many without timely care. Moreover, urban areas also face issues like overbooked schedules and limited doctor availability.
 Most existing systems do not combine all the necessary features—like dynamic slot scheduling, queue tracking, secure login, and consultation history—in one unified platform. There’s also a gap in role-based access control and secure handling of sensitive medical data.
 The Online Telehealth Consultation System aims to solve these issues by offering a centralized, secure, and easy-to-use platform where users can book and manage appointments, receive timely consultations, and view past records, all in real time.
+
+
+
