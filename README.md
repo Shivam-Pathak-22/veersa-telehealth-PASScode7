@@ -236,4 +236,41 @@ Requirements to solve the Problem Statement:
 •	Patient History Tab to Information for Future Reference 
 •	Chat and Video Call Feature
 
+Test Cases for each Requirement
+Registration:
+Name: Ram 
+Email:Ram@gmail.com 
+Phone: 8746283939
+Date of Birth: 8-2-2001
+Gender: Male
+Address: Bu Block , House no 40 Shalimar Bagh, New Delhi
+Password:Ram@123
+
+![image](https://github.com/user-attachments/assets/330ab714-88ba-49c9-bd07-6fc89166148d)
+
+Login:
+Email: Ram@gmail.com
+Password: Ram@123
+![image](https://github.com/user-attachments/assets/f1c4ac73-be85-4ca2-af0c-96a2baf46124)
+
+Reset Password:
+Current PassWord: 123
+New Password: Lucid@123
+Confirm New Password: Lucid@123
+![image](https://github.com/user-attachments/assets/5ce9fbfb-2011-476e-aa82-5648497e865e)
+
+Payments:
+Your Name: Prajjwal Singh
+Relationship with Patient: Self
+Select Department: Dermatology
+Card Number: 4111 1111 1111
+Expiry Date: 2/28
+CVV: 111
+ZIP: 12345
+![image](https://github.com/user-attachments/assets/2bb25c12-8fa0-4683-9863-61bd9b4f16a8)
+
+
+
+
+
 
