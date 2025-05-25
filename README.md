@@ -269,6 +269,8 @@ CVV: 111
 ZIP: 12345
 ![image](https://github.com/user-attachments/assets/2bb25c12-8fa0-4683-9863-61bd9b4f16a8)
 
+Learnings From This Project:
+Working on this project has been an incredible learning journey for me and my team, PASScode7. Over just four days, we tackled a wide range of challenges while building our Telehealth application, and the experience pushed us to grow rapidly as developers. One of our key achievements was integrating a secure payment gateway, which gave us hands-on experience with real-world transactional flows. We also implemented video consultations—a feature that came with its own set of hurdles. Initially, we experimented with WebRTC, but its paid limitations led us to explore LiveKit, which unfortunately didn’t meet our needs. Finally, we discovered and successfully integrated Jitsi Meet, which fit our use case perfectly. And due to this first trying with WebRTC then going with LiveKit and then finally Jitsi Meet took lot of our time and we were unable to explore the transcription service feature but  this turbulent learning curve taught us adaptability, quick problem-solving, and how to collaborate effectively under pressure. Overall, this hackathon was more than just a project—it was an intense, rewarding experience that deepened our technical skills and team coordination. 
 
 
 
