@@ -10,7 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@daily-co/daily-js": "^0.79.0",
     "@heroicons/react": "^2.1.5",
+    "@livekit/components-react": "^2.9.9",
+    "@livekit/components-styles": "^1.1.6",
+    "@square/web-sdk": "^2.1.0",
     "animate.css": "^4.1.1",
     "axios": "^1.7.5",
     "framer-motion": "^11.5.4",
