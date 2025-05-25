@@ -119,7 +119,9 @@ File Organization
 
 UI/UX Design Reference
 The user interface design for the Online Telehealth Consultation System was meticulously crafted in Figma. The design focuses on creating a clean, intuitive, and patient-centric experience. The Figma design assets are available here:
+
 🔗 Figma Design - Final UI(Figma Design : https://www.figma.com/design/hoN8VhZddfucHQmG169YFb/final?node-id=0-1&t=jp6TLIDvBSDRSYgx-1)
+
 Key Design Highlights:
 •	Modern Aesthetic: The design features a minimalist yet visually rich layout using calm healthcare-friendly colors (indigo, blue, white).
 •	User-Centric Navigation: Clear separation between public and dashboard views, with attention to usability and accessibility.
