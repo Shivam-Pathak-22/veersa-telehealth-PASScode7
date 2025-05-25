@@ -13,7 +13,7 @@ import OldNavbar from './components/OldNavBar/OldNavBar.jsx';
 import MyProfile from './pages/Dashboard/MyProfile/MyProfile.jsx';
 import BookConsultation from './pages/Dashboard/BookConsultation/BookConsultation.jsx';
 import PatientHistory from './pages/Dashboard/PatientHistory/PatientHistory.jsx';
-import PrivateRoute from './components/PrivateRoute.jsx'; // ✅ import
+import PrivateRoute from './components/PrivateRoute.jsx';
 import VideoConsult from './pages/Dashboard/VideoConsult/VideoConsult.jsx';
 
 
